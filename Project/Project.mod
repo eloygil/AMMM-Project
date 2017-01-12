@@ -15,26 +15,29 @@ range P = 1..S;
 float dist[p in P][q in P] = ...;
 float task[p in P] = ...;
  
-dvar float+ arrive_pt[p in P][t in T];
+dvar float+ arrive_pt[p in P_s][t in T];
+dvar float+ end_time[t in T];
 dvar boolean pt[p in P][t in T];
 dvar boolean from_p_to_q[t in T][p in P][q in P];
 
-minimize max(t in T) arrive_pt[S][t];
+minimize max(t in T) end_time[t];
 
 subject to {
 	
 	// Constraint 1 (no time travelling allowed between two points)
 	// Aqui esta el problema si lo pones no funsiona 
-	forall (p in P_s, q in P)
-	  	forall (t in T)
-			 abs(arrive_pt[q][t] - arrive_pt[p][t])  >= from_p_to_q[t,p,q] * (dist[p][q] + task[p]);
+	forall (p in P_s, q in P_s)
+		forall (t in T)
+			arrive_pt[q][t] - arrive_pt[p][t] >= (from_p_to_q[t][p][q] * (dist[p][q] + task[p])) - (9999999 * (1-from_p_to_q[t][p][q]));
 	
-	forall (p in P, t in T)
-	  arrive_pt[p][t]  >= from_p_to_q[t,S,p] * dist[S][p];
-	  
+	forall (p in P_s, t in T) {
+		arrive_pt[p][t] >= from_p_to_q[t,S,p] * dist[S][p];
+		end_time[t] >= arrive_pt[p][t] + (from_p_to_q[t][p][S] * (dist[p][S] + task[p]));
+    }	  
+    
 	// Constraint 4 (worktime behind maximum)
 	forall (t in T)
-	  	arrive_pt[S][t] <= workTime;	
+	  	end_time[t] <= workTime;	
 		
 	// Constaint 6 and 7 (se visitan todos los puntos (excepto el origen) una sola vez y define el orden)
 	forall (p in P_s)

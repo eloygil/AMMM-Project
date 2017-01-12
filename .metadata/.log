@@ -63,3 +63,22 @@ Caused by: java.util.ConcurrentModificationException
 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
 	... 23 more
+
+!ENTRY ilog.odms.ide.core 1 0 2017-01-12 22:39:33.127
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.doAcquireSharedInterruptibly(AbstractQueuedSynchronizer.java:996)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1303)
+	at java.util.concurrent.FutureTask$Sync.innerGet(FutureTask.java:248)
+	at java.util.concurrent.FutureTask.get(FutureTask.java:111)
+	at ilog.odms.ide.internal.core.run.IloAbstractRunController.syncRequestScript(IloAbstractRunController.java:390)
+	at ilog.odms.ide.internal.core.run.IloAbstractRunController.syncRequestScript(IloAbstractRunController.java:321)
+	at ilog.odms.ide.internal.core.run.remote.IloRemoteRunController.syncRequestScript(IloRemoteRunController.java:190)
+	at ilog.odms.ide.core.bridge.IloScriptRequestHelper.executeRequest(IloScriptRequestHelper.java:34)
+	at ilog.odms.ide.core.bridge.remote.IloScriptRequestBase.genericRequest(IloScriptRequestBase.java:55)
+	at ilog.odms.ide.core.bridge.remote.IloRemoteModelBridge.getElements(IloRemoteModelBridge.java:83)
+	at ilog.odms.ide.ui.editors.model.IloModelTextHoverAST.findElement(IloModelTextHoverAST.java:56)
+	at ilog.odms.ide.ui.editors.model.IloModelTextHoverAST.getElementHover(IloModelTextHoverAST.java:101)
+	at ilog.odms.ide.ui.editors.model.IloModelTextHoverAST.getHoverInfo(IloModelTextHoverAST.java:116)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:168)
