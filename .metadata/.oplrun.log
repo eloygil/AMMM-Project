@@ -723,3 +723,375 @@ Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:22:01.476
 !MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:28:22.759 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:28:22.759
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:28:22.878
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:29:23.804 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:29:23.804
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:29:23.910
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:29:31.508 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:29:31.509
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:29:31.616
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:29:39.004 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:29:39.004
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:29:39.174
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:29:48.386 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:29:48.386
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:29:48.475
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:30:16.525 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:30:16.525
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:30:16.689
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:30:24.041 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:30:24.041
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:30:24.178
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:30:31.476 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:30:31.476
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:30:31.601
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:30:37.043 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:30:37.043
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:30:37.211
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:40:57.445 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:40:57.445
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:40:57.548
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:41:21.337 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:41:21.338
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:41:21.414
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:41:50.615 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:41:50.616
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:41:50.774
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:43:18.934 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:43:18.934
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:43:19.023
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:43:43.398 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:43:43.399
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:43:43.588
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-12 23:45:14.247 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-12 23:45:14.247
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-12 23:45:14.356
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:01:28.181 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:01:28.181
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:01:28.230
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:01:36.442 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:01:36.442
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:01:36.647
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:02:10.411 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:02:10.411
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:02:10.536
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:06:28.044 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:06:28.044
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:06:28.110
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-13 00:06:28.199
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Fallo en el proceso.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-13 00:06:55.353 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:06:55.353
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:06:55.479
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:17:26.448 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:17:26.448
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:17:26.524
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:17:36.518 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:17:36.518
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:17:36.629
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:32:24.156 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:32:24.156
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:32:24.312
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-13 00:32:33.707 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-13 00:32:33.707
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:32:33.766
+!MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project

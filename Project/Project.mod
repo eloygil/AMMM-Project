@@ -8,6 +8,7 @@ int nP = ...;
 int S = nP+1;
 int nT = ...;
 int workTime = ...;
+int bigM = workTime * 10;
 
 range T = 1..nT;
 range P_s = 1..nP;
@@ -16,7 +17,7 @@ range window = 1..2;
 
 float dist[p in P][q in P] = ...;
 float task[p in P] = ...;
-float task_window[p in P][w in window] = ...;
+float task_window[p in P_s][w in window] = ...;
  
 dvar float+ arrive_pt[p in P_s][t in T];
 dvar float+ end_time[t in T];
@@ -28,27 +29,44 @@ minimize max(t in T) end_time[t];
 subject to {
 	
 	// Constraint 1 (no time travelling allowed between two points)
+	// The time difference between the arriving time at the 2nd point and the arriving time at the 1st is bigger than the distance 
+	// between the 1st and the 2nd point plus the time spent in the task, if such a track actually exists. Otherwise this comparison is
+	// avoided using the bigM value that is a way bigger negative value.
 	forall (p in P_s, q in P_s)
 		forall (t in T)
-			arrive_pt[q][t] - arrive_pt[p][t] >= (from_p_to_q[t][p][q] * (dist[p][q] + task[p])) - (9999999 * (1-from_p_to_q[t][p][q]));
-	
+			arrive_pt[q][t] - arrive_pt[p][t] >= (from_p_to_q[t][p][q] * (dist[p][q] + task[p])) - (bigM * (1-from_p_to_q[t][p][q]));
+			
+	// Constraint 2 (same as Constraint 1 but for the special cases of Source/Destination point)
 	forall (p in P_s, t in T) {
+		// Departure
 		arrive_pt[p][t] >= from_p_to_q[t,S,p] * dist[S][p];
+		// Arrival
 		end_time[t] >= arrive_pt[p][t] + (from_p_to_q[t][p][S] * (dist[p][S] + task[p]));
+	}
+	
+	// Constaint 3 (task started during the specified time window)
+	forall (p in P_s, t in T) {		
+		arrive_pt[p][t] >= task_window[p][1] * pt[p][t];
+		arrive_pt[p][t] <= task_window[p][2] * pt[p][t];	
     }	  
     
 	// Constraint 4 (worktime behind maximum)
 	forall (t in T)
 	  	end_time[t] <= workTime;	
 		
-	// Constaint 6 and 7 (se visitan todos los puntos (excepto el origen) una sola vez y define el orden)
+	// Constaint 5 (each point is visited exactly once, except the Source/Destination point) 
 	forall (p in P_s)
 		sum(t in T) pt[p,t] == 1;
 		
+	// Constraint 6 (defines the order of the visits)
 	forall (t in T, p in P) {
-		pt[S][t] >= pt[p][t];	
+		// If truck t visits any point it also visits the Source/Destination point
+		pt[S][t] >= pt[p][t];
+		// Avoids to travel from a point to itself.	
 		from_p_to_q[t,p,p] == 0;
+		// If truck t visits a point p it must have a previous and next point
 		sum(q in P) from_p_to_q[t,p,q] == pt[p][t];
 		sum(q in P) from_p_to_q[t,q,p] == pt[p][t];		
 	}		
+	
 }
