@@ -5,7 +5,6 @@
  *********************************************/
 
 nP = 4;
-nT = 4;
 workTime = 720; // maximum time to finish (12h in minutes)
 
 task  = [ 1.0 1.2 1.4 1.6 0.0]; // time (minutes) spent in a task in each point

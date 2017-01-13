@@ -6,9 +6,9 @@
  *********************************************/
 int nP = ...;
 int S = nP+1;
-int nT = ...;
+int nT = nP;
 int workTime = ...;
-int bigM = workTime * 10;
+int bigM = workTime * 2;
 
 range T = 1..nT;
 range P_s = 1..nP;
@@ -24,7 +24,10 @@ dvar float+ end_time[t in T];
 dvar boolean pt[p in P][t in T];
 dvar boolean from_p_to_q[t in T][p in P][q in P];
 
-minimize max(t in T) end_time[t];
+// La fila S de pt te dice los camiones que salen y los que no, lo multiplicamos por bigM para darle mas importancia,
+// si dos soluciones empatan ("sum(t in T) pt[S][t] * bigM" tiene el mismo valor en ambas) se desempata sumadole 
+// el tiempo maximo de llegada
+minimize (sum(t in T) pt[S][t] * bigM) + (max(t in T) end_time[t]);
 
 subject to {
 	
