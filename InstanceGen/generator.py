@@ -96,20 +96,21 @@ if __name__ == '__main__':
         task_print += '0 ];'
         output.write(task_print + '\n')
         output.write('\n')
-        output.write('        	//  min   max\n')
+        output.write('              //  min  max\n')
 
         for i in range(0, len(task_window_min)):
             index = i + 1
             if i == 0:
-                output.write('task_window = [[ ' + str(task_window_min[i]) + ' ' + str(task_window_max[i]) + ' ] // ' + str(index) + '\n')
+                output.write("task_window = [[{0:5} {1:4} ] // {2} \n".format(task_window_min[i], task_window_max[i], index))
             else:
-                output.write('			   [ ' + str(task_window_min[i]) + ' ' + str(task_window_max[i]) + ' ] // ' + str(index) + '\n')
+            	output.write("               [{0:5} {1:4} ] // {2} \n".format(task_window_min[i], task_window_max[i], index))
+
         output.write(']; \n')
         output.write('\n')
-        output.write('	  //')
+        output.write('       // ')
         for i in range(1, len(dist)):
-            output.write('  ' + str(i))
-        output.write('  S \n')
+            output.write("{:5}".format(i) + ' ')
+        output.write('    S \n')
         for x in range(0, len(dist)):
             index = x + 1
             if index == nP + 1:
@@ -117,9 +118,9 @@ if __name__ == '__main__':
             if x == 0:
                 output.write('dist = [[ ')
             else:
-                output.write(' 	    [ ')
+                output.write('        [ ')
             for y in range(0, len(dist[x])):
-                output.write(str(dist[x][y]) + ' ')
+                output.write("{:5}".format(dist[x][y]) + ' ')
             output.write(' ] // ' + str(index) + '\n')
         output.write('];')
 
