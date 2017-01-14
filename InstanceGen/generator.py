@@ -124,11 +124,6 @@ if __name__ == '__main__':
             output.write(' ] // ' + str(index) + '\n')
         output.write('];')
 
-
-
-
-
-
     print "Done."
 
 
