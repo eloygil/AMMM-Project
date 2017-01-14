@@ -1,0 +1,29 @@
+/*********************************************
+ * OPL 12.6.0.0 Data
+ * Author: Eloy Gil Guerrero
+ * Email: eloy.gil@est.fib.upc.edu
+ * Creation Date: 14/01/2017 at 22:56:06
+ *********************************************/
+
+nP = 5;         // number of destination points 
+workTime = 720; // maximum time to finish (12h in minutes) 
+
+// time (minutes) spent in a task in each point 
+task = [ 4 1 7 5 6 0 ];
+
+              //  min  max
+task_window = [[   87  128 ] // 1 
+               [   70  115 ] // 2 
+               [   96  140 ] // 3 
+               [  182  226 ] // 4 
+               [   74  115 ] // 5 
+]; 
+
+       //     1     2     3     4     5     S 
+dist = [[     0   109    81    60    22   117  ] // 1
+        [   109     0    93    14    85    97  ] // 2
+        [    81    93     0    13    89     8  ] // 3
+        [    60    14    13     0    14   114  ] // 4
+        [    22    85    89    14     0   113  ] // 5
+        [   117    97     8   114   113     0  ] // S
+];
