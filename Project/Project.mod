@@ -25,7 +25,7 @@ dvar boolean pt[p in P][t in T];
 dvar boolean from_p_to_q[t in T][p in P][q in P];
 
 // La fila S de pt te dice los camiones que salen y los que no, lo multiplicamos por bigM para darle mas importancia,
-// si dos soluciones empatan ("sum(t in T) pt[S][t] * bigM" tiene el mismo valor en ambas) se desempata sumadole 
+// si dos soluciones empatan ("sum(t in T) pt[S][t] * bigM" tiene el mismo valor en ambas) se desempata sumándole 
 // el tiempo maximo de llegada
 minimize (sum(t in T) pt[S][t] * bigM) + (max(t in T) end_time[t]);
 

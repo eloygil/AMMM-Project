@@ -1095,3 +1095,126 @@ Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-13 00:32:33.766
 !MESSAGE Run Configuración 1 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-14 17:08:52.399 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 17:08:52.399
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-14 17:08:52.590
+!MESSAGE Run Instancia 012 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-14 17:08:53.727
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Fallo en el proceso.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-14 17:09:24.746 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 17:09:24.746
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-14 17:09:24.829
+!MESSAGE Run Instancia 012 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-14 17:09:24.933
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Fallo en el proceso.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-14 17:10:03.124 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 17:10:03.124
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-14 17:10:03.225
+!MESSAGE Run Instancia 012 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-14 17:10:03.301
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Fallo en el proceso.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-14 17:10:35.947 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 17:10:35.947
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-14 17:10:36.194
+!MESSAGE Run Instancia 012 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-14 17:10:36.283
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Fallo en el proceso.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getModel(Native Method)
+	at ilog.opl.IloOplModel.getModel(IloOplModel.java:519)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell.loadModel(IloAbstractRunShell.java:1219)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:162)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-14 17:18:49.120 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 17:18:49.120
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-14 17:18:49.152
+!MESSAGE Run Instancia 012 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
