@@ -5,7 +5,7 @@
  * Creation Date: 14/01/2017 at 23:01:56
  *********************************************/
 
-nP = 18;         // number of destination points 
+nP = 18;        // number of destination points
 workTime = 720; // maximum time to finish (12h in minutes) 
 
 // time (minutes) spent in a task in each point 
