@@ -6,7 +6,6 @@
 import sys, random, io
 from time import gmtime, strftime
 
-
 if __name__ == '__main__':
     try:
         nP = int(sys.argv[1])
