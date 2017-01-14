@@ -25,6 +25,10 @@
 			<ref name="instance_20.dat" type="data">
 			</ref>
 		</config>
+		<config category="opl" default="false" name="Auto-Run">
+			<ref name="autorun.mod" type="model">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
