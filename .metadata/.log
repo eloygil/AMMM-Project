@@ -306,3 +306,27 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
 
 !ENTRY ilog.odms.ide.core 1 0 2017-01-13 23:40:25.772
 !MESSAGE ODM Bundle is OFF
+!SESSION 2017-01-14 21:21:20.559 -----------------------------------------------
+eclipse.buildId=Build 0
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-01-14 21:21:32.230
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2017-01-14 21:21:34.633
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error1 in: ilog.odms.ide.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-01-14 21:21:34.634
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error2 in: ilog.odms.ide.ui.messages
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-14 21:21:41.331
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.core 1 0 2017-01-14 21:21:55.254
+!MESSAGE ODM Bundle is OFF
