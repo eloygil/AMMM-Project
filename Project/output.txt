@@ -1,0 +1,60 @@
+Found solution for instance_5.dat #1
+Objective function value: 6061
+Execution time: 0.015
+Found solution for instance_5.dat #2
+Objective function value: 6061
+Execution time: 0.016
+Found solution for instance_6.dat #1
+Objective function value: 3065
+Execution time: 0.266
+Found solution for instance_6.dat #2
+Objective function value: 3065
+Execution time: 0.125
+Found solution for instance_7.dat #1
+Objective function value: 3175
+Execution time: 0.235
+Found solution for instance_7.dat #2
+Objective function value: 3175
+Execution time: 0.219
+Found solution for instance_8.dat #1
+Objective function value: 4552
+Execution time: 0.437
+Found solution for instance_8.dat #2
+Objective function value: 4552
+Execution time: 0.422
+Found solution for instance_9.dat #1
+Objective function value: 3192
+Execution time: 0.407
+Found solution for instance_9.dat #2
+Objective function value: 3192
+Execution time: 0.406
+Found solution for instance_10.dat #1
+Objective function value: 4712
+Execution time: 0.453
+Found solution for instance_10.dat #2
+Objective function value: 4712
+Execution time: 0.422
+Found solution for instance_11.dat #1
+Objective function value: 4619
+Execution time: 0.735
+Found solution for instance_11.dat #2
+Objective function value: 4619
+Execution time: 0.703
+Found solution for instance_12.dat #1
+Objective function value: 4679
+Execution time: 0.75
+Found solution for instance_12.dat #2
+Objective function value: 4679
+Execution time: 0.703
+Found solution for instance_13.dat #1
+Objective function value: 6121
+Execution time: 5.281
+Found solution for instance_13.dat #2
+Objective function value: 6121
+Execution time: 5.375
+Found solution for instance_14.dat #1
+Objective function value: 10458
+Execution time: 410.813
+Found solution for instance_14.dat #2
+Objective function value: 10458
+Execution time: 457.765

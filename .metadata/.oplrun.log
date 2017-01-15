@@ -1440,3 +1440,732 @@ Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents
 
 !ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:15:13.662
 !MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:28:42.889 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:28:42.900
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:28:43.230
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:28:43.326
+!MESSAGE Run Instancia 6 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:49:01.620 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:49:01.628
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:49:01.956
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:49:02.127
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:50:26.079 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:50:26.087
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:50:26.423
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:50:26.591
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:51:09.684 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:51:09.696
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:51:10.026
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:51:10.123
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:51:34.799 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:51:34.799
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:51:34.883
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:52:49.510 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:52:49.510
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:52:49.606
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:53:10.975 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:53:10.985
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:53:11.316
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:53:11.415
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:53:18.317 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:53:18.324
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:53:18.669
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:53:18.706
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:53:27.183 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:53:27.191
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:53:27.527
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:53:27.651
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:54:36.626 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:54:36.635
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:54:36.979
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:54:37.121
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:56:52.258 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:56:52.267
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:56:52.603
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:56:52.691
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:57:13.256 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:57:13.264
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:57:13.603
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:57:13.739
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:57:16.763 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:57:16.771
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:57:17.098
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:57:17.256
+!MESSAGE Run Instancia 6 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:57:28.870 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:57:28.880
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:57:29.210
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:57:29.327
+!MESSAGE Run Instancia 4 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:57:34.792 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:57:34.800
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:57:35.131
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:57:35.288
+!MESSAGE Run Instancia 20 in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-15 00:58:32.856
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Proceso anulado.
+	at ilog.opl.opl_lang_wrapJNI.IloOplErrorHandlerWrapper_superOk(Native Method)
+	at ilog.opl.IloOplErrorHandlerWrapper.superOk(IloOplErrorHandlerWrapper.java:86)
+	at ilog.opl.IloCustomOplErrorHandler.customOk(IloCustomOplErrorHandler.java:78)
+	at ilog.opl.IloCustomOplErrorHandler$MyEH.ok(IloCustomOplErrorHandler.java:35)
+	at ilog.opl.opl_lang_wrapJNI.SwigDirector_IloOplErrorHandlerWrapper_ok(opl_lang_wrapJNI.java:1066)
+	at ilog.opl.opl_lang_wrapJNI.IloOplErrorHandler_ok(Native Method)
+	at ilog.opl.IloOplErrorHandler.ok(IloOplErrorHandler.java:122)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimpleCplex(IloOplRunConfigRunner.java:289)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessSimple(IloOplRunConfigRunner.java:183)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:169)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-15 00:58:38.164 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:58:38.164
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:58:38.246
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 00:59:21.900 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 00:59:21.911
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 00:59:22.235
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 00:59:22.360
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:01:56.136 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:01:56.145
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:01:56.482
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:01:56.620
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:02:44.252 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:02:44.264
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:02:44.607
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:02:44.696
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:05:38.400 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:05:38.408
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:05:38.751
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:05:38.860
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:05:38.936
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:05:38.937
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-15 01:07:50.715 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:07:50.715
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:07:50.814
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:09:31.797 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:09:31.808
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:09:32.152
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:09:32.267
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:10:29.545 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:10:29.556
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:10:29.891
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:10:29.990
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:10:30.044
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:10:30.045
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-15 01:10:56.611 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:10:56.612
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:10:56.728
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:10:56.766
+!MESSAGE load failed
+!STACK 1
+org.eclipse.core.runtime.CoreException: load failed
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:151)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	... 3 more
+!SUBENTRY 1 ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:10:56.767
+!MESSAGE load failed
+!STACK 0
+ilog.concert.IloException: Imposible cargar el modelo.
+	at ilog.opl.opl_lang_wrapJNI.IloOplRunConfiguration_getCppOplModel(Native Method)
+	at ilog.opl.IloOplRunConfiguration.getCppOplModel(IloOplRunConfiguration.java:232)
+	at ilog.opl.IloOplRunConfiguration.getOplModel(IloOplRunConfiguration.java:116)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doSetUpModel(IloOplRunConfigRunner.java:145)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:395)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-15 01:19:19.057 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:19:19.057
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:19:19.136
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:23:29.790 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:23:29.799
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:23:30.130
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:23:30.245
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:24:32.141 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:24:32.149
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:24:32.498
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:24:32.603
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:25:58.192 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:25:58.192
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:25:58.326
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:26:33.522 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:26:33.523
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:26:33.615
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:27:07.087 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY org.eclipse.osgi 4 0 2017-01-15 01:27:07.095
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun\org.eclipse.osgi
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:27:07.428
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:27:07.586
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:28:33.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:28:33.699
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:28:33.786
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:29:46.883 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:29:46.883
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:29:46.984
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:30:09.833 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:30:09.833
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:30:09.974
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:30:22.879 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:30:22.879
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:30:22.935
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+
+!ENTRY ilog.odms.ide.opllang.remote 4 0 2017-01-15 01:31:41.884
+!MESSAGE run failed
+!STACK 0
+ilog.concert.IloException: Proceso anulado.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_main(Native Method)
+	at ilog.opl.IloOplModel.main(IloOplModel.java:652)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessMain(IloOplRunConfigRunner.java:359)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doProcessModel(IloOplRunConfigRunner.java:167)
+	at ilog.odms.ide.opllang.remote.IloOplRunConfigRunner.doRun(IloOplRunConfigRunner.java:398)
+	at ilog.odms.ide.opllang.run.IloAbstractRunShell$2.run(IloAbstractRunShell.java:1614)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SESSION 2017-01-15 01:32:24.168 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:32:24.168
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:32:24.258
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 01:35:44.806 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 01:35:44.807
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 01:35:44.882
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project
+!SESSION 2017-01-15 02:10:01.937 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -clean -nl es_ES -configuration C:\Users\Eloy\Documents\IBM\ILOG\CPLEX_Studio126\AMMM-Project\.metadata\workspace_oplrun
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 02:10:01.937
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.opllang.remote 1 0 2017-01-15 02:10:02.177
+!MESSAGE Run Auto-Run in C:/Users/Eloy/Documents/IBM/ILOG/CPLEX_Studio126/AMMM-Project/Project

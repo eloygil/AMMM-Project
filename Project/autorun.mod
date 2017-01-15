@@ -9,21 +9,21 @@ main {
 	var src = new IloOplModelSource("Project.mod");
 	var def = new IloOplModelDefinition(src);
 	var cplex = new IloCplex();
-	cplex.epgap=0.01;
+	cplex.epgap = 0.01;
 
-	for (var i = 5; i <= 5; i += 1) {
-		for (var j = 1; i <= 2; i += 1) {
-			var filename = "./../InstanceGen/instance_" + i + ".dat";
-			var model = new IloOplModel(def, cplex);
+	for (var i = 15; i <= 19; i += 1) {
+		for (var j = 1; j <= 2; j += 1) {
+			var filename = "../InstanceGen/instance_"+i+".dat";
+			var opl = new IloOplModel(def, cplex);
 			var data = new IloOplDataSource(filename);
-			model.addDataSource(data);
-			model.generate();
-			if (cplex.solve()) {
-				writeln("Found solution for "+ filename +" execution number "+j);
-				writeln("Objective function value: " + cplex.getObjValue());
-				writeln("Execution time " + cplex.getSolvedTime());
+			opl.addDataSource(data);
+			opl.generate();
+			if (cplex.solve()) {			
+				writeln("Found solution for instance_" +i+".dat #"+j);
+				writeln("Objective function value: "+cplex.getObjValue());
+				writeln("Execution time: "+cplex.getSolvedTime());
 			}
-			else writeln("No solution for "+filename+" execution number "+j);
+			else writeln("No solution for "+filename + " execution number "+j);
 		}
 	}
 }

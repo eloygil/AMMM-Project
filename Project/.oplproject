@@ -29,6 +29,12 @@
 			<ref name="autorun.mod" type="model">
 			</ref>
 		</config>
+		<config category="opl" default="false" name="Instancia 6">
+			<ref name="instance_6.dat" type="data">
+			</ref>
+			<ref name="Project.mod" type="model">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
