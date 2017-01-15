@@ -10,9 +10,10 @@ main {
 	var def = new IloOplModelDefinition(src);
 	var cplex = new IloCplex();
 	cplex.epgap = 0.01;
+	writeln("Starting...")
 
-	for (var i = 15; i <= 19; i += 1) {
-		for (var j = 1; j <= 2; j += 1) {
+	for (var i = 5; i <= 17; i += 1) {
+		for (var j = 1; j <= 3; j += 1) {
 			var filename = "../InstanceGen/instance_"+i+".dat";
 			var opl = new IloOplModel(def, cplex);
 			var data = new IloOplDataSource(filename);

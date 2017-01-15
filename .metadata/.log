@@ -477,3 +477,39 @@ ilog.odms.ide.internal.core.run.IloAbstractRunController$ScriptHandlingException
 
 !ENTRY ilog.odms.ide.core 2 0 2017-01-15 00:58:24.466
 !MESSAGE OPL busy, ignoring launch of Project Auto-Run
+
+!ENTRY ilog.odms.ide.core 2 0 2017-01-15 22:19:37.643
+!MESSAGE OPL busy, ignoring launch of Project Auto-Run
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 22:20:27.998
+!MESSAGE concert_wrap.IloEndMT
+!SESSION 2017-01-15 22:20:34.675 -----------------------------------------------
+eclipse.buildId=Build 0
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Windows 8 amd64-64 Compressed References 20130617_152572 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR5_20130617_1436_B152572
+JIT  - r11.b04_20130528_38954ifx1
+GC   - R26_Java726_SR5_20130617_1436_B152572_CMPRSS
+J9CL - 20130617_152572
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY org.eclipse.osgi 2 1 2017-01-15 22:22:56.533
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error1 in: ilog.odms.ide.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2017-01-15 22:22:56.534
+!MESSAGE NLS unused message: IloRenameASTElementProcessor_error2 in: ilog.odms.ide.ui.messages
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-15 22:22:57.118
+!MESSAGE concert_wrap.IloInitMT
+
+!ENTRY ilog.odms.ide.core 1 0 2017-01-15 22:22:59.912
+!MESSAGE ODM Bundle is OFF
+
+!ENTRY ilog.odms.ide.core 2 0 2017-01-15 22:46:01.646
+!MESSAGE OPL busy, ignoring launch of Project Auto-Run
+
+!ENTRY ilog.odms.ide.core 2 0 2017-01-16 00:24:08.465
+!MESSAGE OPL busy, ignoring launch of Project Auto-Run
+
+!ENTRY ilog.odms.ide.core 2 0 2017-01-16 00:28:34.119
+!MESSAGE OPL busy, ignoring launch of Project Auto-Run
