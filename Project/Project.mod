@@ -70,6 +70,41 @@ subject to {
 		// If truck t visits a point p it must have a previous and next point
 		sum(q in P) from_p_to_q[t,p,q] == pt[p][t];
 		sum(q in P) from_p_to_q[t,q,p] == pt[p][t];		
+	}
+}
+execute {
+   // Postprocessing
+	printing = 1;
+	if (printing == 1) {
+		var t_used = 0;
+	  	for (var t in T) {  	
+	  	  	if (pt[S][t] == 1) {
+	  	  	  	t_used += 1;
+		  		write("Route for truck " + t + ": [ S ");
+		  		var destination = 0;  		
+		  		for (var p in P_s) {
+		  			if (from_p_to_q[t][S][p] == 1) {
+		  				write(p + " ");		
+		  				destination = p;		
+		  			}
+		  		}
+				while (destination != S) {
+	  				for (var p in P) {
+		  				if (from_p_to_q[t][destination][p] == 1) {
+		  					if (p == S) write("S ");		  					
+		  					else write(p + " ");	  							
+		  					destination = p;		
+		  				}
+	    			}  				
+	  			}
+	  		writeln("]");
+	  		}
+		}
+		var last_time = 0;
+		for (var t in T) {
+			if (end_time[t] > last_time) last_time = end_time[t];
+		}	
+		writeln("Total trucks used: " + t_used);
+		writeln("Last truck arrives at: " + last_time);
 	}		
-	
 }

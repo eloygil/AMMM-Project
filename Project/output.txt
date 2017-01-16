@@ -109,4 +109,7 @@ Objective function value: 8865
 Execution time: 665.5
 Found solution for instance_17.dat #1
 Objective function value: 4620
-Execution time: 1141.53
+Execution time: 1607.14
+Found solution for instance_17.dat #2
+Objective function value: 4620
+Execution time: 641.5
