@@ -89,3 +89,12 @@ Execution time: 3.594
 Found solution for instance_14.dat #3
 Objective function value: 4656
 Execution time: 3.656
+Found solution for instance_15.dat #1
+Objective function value: 6055
+Execution time: 8.578
+Found solution for instance_15.dat #2
+Objective function value: 6055
+Execution time: 8.515
+Found solution for instance_15.dat #3
+Objective function value: 6055
+Execution time: 8.594
