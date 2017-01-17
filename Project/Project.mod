@@ -74,7 +74,7 @@ subject to {
 }
 execute {
    // Postprocessing
-	printing = 1;
+	var printing = 1;
 	if (printing == 1) {
 		var t_used = 0;
 	  	for (var t in T) {  	
