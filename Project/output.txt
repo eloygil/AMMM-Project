@@ -113,3 +113,12 @@ Execution time: 1607.14
 Found solution for instance_17.dat #2
 Objective function value: 4620
 Execution time: 641.5
+Found solution for instance_17.dat #3
+Objective function value: 4620
+Execution time: 4862.94
+Found solution for instance_17.dat #4
+Objective function value: 4620
+Execution time: 2967.2
+Found solution for instance_17.dat #5
+Objective function value: 4620
+Execution time: 3708.98
