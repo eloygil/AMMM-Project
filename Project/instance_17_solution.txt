@@ -1,5 +1,9 @@
 instance_17.dat #6
 
+Found solution for instance_17.dat #6
+Objective function value: 4620
+Execution time: 3635.29
+
 Route for truck 1: [ S 1 6 5 4 S ]
 Route for truck 2: [ S 3 12 2 10 13 S ]
 Route for truck 9: [ S 7 11 14 15 16 17 9 8 S ]

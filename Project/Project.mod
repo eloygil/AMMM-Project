@@ -19,8 +19,8 @@ float dist[p in P][q in P] = ...;
 float task[p in P] = ...;
 float task_window[p in P_s][w in window] = ...;
  
-dvar float+ arrive_pt[p in P_s][t in T];
-dvar float+ end_time[t in T];
+dvar int+ arrive_pt[p in P_s][t in T];
+dvar int+ end_time[t in T];
 dvar boolean pt[p in P][t in T];
 dvar boolean from_p_to_q[t in T][p in P][q in P];
 
