@@ -11,6 +11,8 @@ from problem import Problem
 from solution import Solution
 import time, sys, random, os
 
+alpha = 0.4
+
 def fileCheck(inst_path):
     if os.path.isfile(inst_path):
         print 'Using instance ' + inst_path.split('/')[-1]
@@ -30,21 +32,58 @@ def construct(alpha, problem):
         theChosenOne = random.choice(RCL)
         solution.assign(theChosenOne)
         CL = solution.candidateList()
-        print CL, minCandidate, maxCandidate, threshold, RCL
-    print "Solution: ", solution.assignments
+        #print CL, minCandidate, maxCandidate, threshold, RCL
+    #print "Solution: ", solution.assignments
+    return solution
 
+def local(solution):
+    #print "*" * 100
+    bestNeighbour = solution
+    H = solution.getNeighbours()
+    while len(H) > 0:
+        #bestNeighbour = min(H, key=lambda s: s.quality())
+
+        quality = float('infinity')
+        #print H
+        for n in H:
+            if n.quality() < quality:
+                quality = n.quality()
+                bestNeighbour = n
+
+        #print bestNeighbour
+        H = bestNeighbour.getNeighbours()
+    return bestNeighbour
+
+
+# Checks that the path to the file exists
 fileCheck(sys.argv[1])
-startTime = time.time()
+
+# Loads the instance
 problem = Problem()
 problem.load(sys.argv[1])
-#solution = Solution(problem)
-#construct(0.4, problem)
-#print solution.isFeasible()
-print
+
+# Initialize time
+startTime = time.time()
+
+# Initialize final solution
+finalSolution = Solution(problem)
+finalSolution.setWorstCase()
+
+# Initialize solution
+
+print "Initial solution:", finalSolution.routes, "with quality:", finalSolution.quality()
+
 while time.time() - startTime < float(sys.argv[2]):
-    test = 1
-    # test
-print "pos oc. Done."
+    CURSOR_UP_ONE = '\033[F'
+    ERASE_LINE = '\033[K'
+    print(CURSOR_UP_ONE + ERASE_LINE)
+    print round(((time.time() - startTime) * 100) / float(sys.argv[2]), 2), '%'
+    solution = construct(alpha, problem)
+    solution = local(solution)
+    if solution.quality() < finalSolution.quality():
+        finalSolution = solution
+print "Instance executed for ", sys.argv[2], "seconds."
+print "Final solution: ", finalSolution
 
 #problem  = Problem()
 #solution = Solution(problem)

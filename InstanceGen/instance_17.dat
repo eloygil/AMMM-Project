@@ -9,7 +9,7 @@ nP = 17;        // number of destination points
 workTime = 720; // maximum time to finish (12h in minutes) 
 
 // time (minutes) spent in a task in each point 
-task = [ 1 9 7 18 10 7 13 2 13 3 18 2 19 15 18 14 18 3 ];
+task = [ 1 9 7 18 10 7 13 2 13 3 18 2 19 15 18 14 18 0 ];
 
               //  min  max
 task_window = [[   96  137 ] // 1 
