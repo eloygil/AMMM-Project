@@ -4,8 +4,9 @@ GRASP Solver by Eloy Gil
 eloy.gil@est.fib.upc.edu
 '''
 
-# argv[1]: path to instance (ex. '../InstanceGen/instance_6.dat')
-# argv[2]: time (in seconds) to work
+# argv[1]: Path to instance (ex. '../InstanceGen/instance_6.dat')
+# argv[2]: Solver ( GRASP-BI | GRASP-FI | BRKGA )
+# argv[3]: Target execution time (in seconds)
 
 from problem import Problem
 from solution import Solution
@@ -18,6 +19,13 @@ def fileCheck(inst_path):
         print 'Using instance ' + inst_path.split('/')[-1]
     else:
         print 'File ' + inst_path + " not found. Aborting."
+        exit()
+
+def solverCheck(solver):
+    if (solver == "GRASP-BI" or solver == "GRASP-FI" or solver == "BRKGA"):
+        print 'Solving using', solver
+    else:
+        print 'Wrong solver given:', solver, 'Options: GRASP-BI, GRASP-FI and BRKGA. Aborting...'
         exit()
 
 def construct(alpha, problem):
@@ -42,25 +50,26 @@ def local(solution):
     H = solution.getNeighbours()
     while len(H) > 0:
         #bestNeighbour = min(H, key=lambda s: s.quality())
-
         quality = float('infinity')
-        #print H
         for n in H:
             if n.quality() < quality:
                 quality = n.quality()
                 bestNeighbour = n
-
+                if sys.argv[2] == 'GRASP-FI': break
         #print bestNeighbour
         H = bestNeighbour.getNeighbours()
     return bestNeighbour
 
 
-# Checks that the path to the file exists
+# Checks that the path to the instance exists
 fileCheck(sys.argv[1])
 
 # Loads the instance
 problem = Problem()
 problem.load(sys.argv[1])
+
+# Checks the Solver selection
+solverCheck(sys.argv[2])
 
 # Initialize time
 startTime = time.time()
@@ -69,21 +78,17 @@ startTime = time.time()
 finalSolution = Solution(problem)
 finalSolution.setWorstCase()
 
-# Initialize solution
 
 print "Initial solution:", finalSolution.routes, "with quality:", finalSolution.quality()
 
-while time.time() - startTime < float(sys.argv[2]):
-    CURSOR_UP_ONE = '\033[F'
-    ERASE_LINE = '\033[K'
-    print(CURSOR_UP_ONE + ERASE_LINE)
-    print round(((time.time() - startTime) * 100) / float(sys.argv[2]), 2), '%'
+while time.time() - startTime < float(sys.argv[3]):
+    #print str(round(((time.time() - startTime) * 100) / float(sys.argv[3]), 2)) + '%'
     solution = construct(alpha, problem)
     solution = local(solution)
     if solution.quality() < finalSolution.quality():
         finalSolution = solution
-print "Instance executed for ", sys.argv[2], "seconds."
-print "Final solution: ", finalSolution
+print "Instance executed for", sys.argv[3], "seconds."
+print "Final solution:", finalSolution
 
 #problem  = Problem()
 #solution = Solution(problem)
