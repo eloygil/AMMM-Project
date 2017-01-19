@@ -522,3 +522,58 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
 
 !ENTRY ilog.odms.ide.core 2 0 2017-01-16 19:02:37.828
 !MESSAGE OPL busy, ignoring launch of Project Auto-Run
+
+!ENTRY org.eclipse.ui 4 0 2017-01-19 08:18:11.661
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.NumberFormatException: For input string: "36507193344")
+	at org.eclipse.swt.SWT.error(SWT.java:4361)
+	at org.eclipse.swt.SWT.error(SWT.java:4276)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:138)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4144)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1053)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:942)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:588)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:543)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at ilog.odms.ide.rcp.IloApplication.start(IloApplication.java:120)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:76)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:607)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+Caused by: java.lang.NumberFormatException: For input string: "36507193344"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:495)
+	at java.lang.Integer.parseInt(Integer.java:527)
+	at ilog.odms.ide.opllang.data.parser.internal.SimpleDataParser.getRhsInt(SimpleDataParser.java:236)
+	at ilog.odms.ide.opllang.data.parser.internal.SimpleDataParser.ruleAction(SimpleDataParser.java:271)
+	at lpg.runtime.DeterministicParser.processReductions(DeterministicParser.java:80)
+	at lpg.runtime.DeterministicParser.parseEntry(DeterministicParser.java:275)
+	at lpg.runtime.DeterministicParser.parse(DeterministicParser.java:199)
+	at ilog.odms.ide.opllang.data.parser.internal.SimpleDataParser.parser(SimpleDataParser.java:133)
+	at ilog.odms.ide.opllang.data.parser.internal.SimpleDataParser.parser(SimpleDataParser.java:114)
+	at ilog.odms.ide.opllang.data.parser.SimpleDataParser.process(SimpleDataParser.java:49)
+	at ilog.odms.ide.opllang.data.parser.IloAbstractSimpleDataHandler.process(IloAbstractSimpleDataHandler.java:77)
+	at ilog.odms.ide.ui.views.profiler.IloProfilerTableModel.buildModel(IloProfilerTableModel.java:37)
+	at ilog.odms.ide.ui.views.profiler.IloProfilerTableModel.<init>(IloProfilerTableModel.java:32)
+	at ilog.odms.ide.ui.views.profiler.IloProfilerView.setInput(IloProfilerView.java:429)
+	at ilog.odms.ide.ui.views.profiler.IloProfilerView.setInput(IloProfilerView.java:438)
+	at ilog.odms.ide.ui.run.IloUIRunHandler$7.run(IloUIRunHandler.java:308)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	... 23 more
+
+!ENTRY ilog.odms.ide.opllang 1 0 2017-01-19 13:04:09.545
+!MESSAGE concert_wrap.IloEndMT

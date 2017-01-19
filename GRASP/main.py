@@ -5,7 +5,7 @@ eloy.gil@est.fib.upc.edu
 '''
 
 # argv[1]: Path to instance (ex. '../InstanceGen/instance_6.dat')
-# argv[2]: Solver ( GRASP-BI | GRASP-FI | BRKGA )
+# argv[2]: Solver selected ( GRASP-BI | GRASP-FI | BRKGA )
 # argv[3]: Target execution time (in seconds)
 
 from problem import Problem
@@ -89,7 +89,3 @@ while time.time() - startTime < float(sys.argv[3]):
         finalSolution = solution
 print "Instance executed for", sys.argv[3], "seconds."
 print "Final solution:", finalSolution
-
-#problem  = Problem()
-#solution = Solution(problem)
-#print(solution.quality())

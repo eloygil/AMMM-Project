@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c49ac2a9-f263-42c5-973d-503ec9bfb31a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/main.py" afterPath="$PROJECT_DIR$/../GRASP/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/solution.py" afterPath="$PROJECT_DIR$/../GRASP/solution.py" />
     </list>
     <ignored path="InstanceGen.iws" />
     <ignored path=".idea/workspace.xml" />

@@ -47,6 +47,12 @@
 			<ref name="instance_7.dat" type="data">
 			</ref>
 		</config>
+		<config category="opl" default="false" name="Instancia 18">
+			<ref name="Project.mod" type="model">
+			</ref>
+			<ref name="instance_18.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>
