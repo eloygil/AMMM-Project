@@ -28,7 +28,7 @@ Objective function value: 3175
 Execution time: 0.204
 Found solution for instance_8.dat #1
 Objective function value: 4552
-Execution time: 0.406
+Execution time: 0.382
 Found solution for instance_8.dat #2
 Objective function value: 4552
 Execution time: 0.422
@@ -112,16 +112,7 @@ Objective function value: 4620
 Execution time: 1607.14
 Found solution for instance_17.dat #2
 Objective function value: 4620
-Execution time: 641.5
-Found solution for instance_17.dat #3
-Objective function value: 4620
 Execution time: 4862.94
-Found solution for instance_17.dat #4
-Objective function value: 4620
-Execution time: 2967.2
-Found solution for instance_17.dat #5
-Objective function value: 4620
-Execution time: 3708.98
-Found solution for instance_17.dat #6
+Found solution for instance_17.dat #3
 Objective function value: 4620
 Execution time: 3635.29

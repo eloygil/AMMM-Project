@@ -104,4 +104,5 @@ class Solution(object):
         return neighbours
 
     def __str__(self):
-        return str(self.routes) + " trucks: " + str(len(self.routes)) + " quality: " + str(self.quality())
+        #return str(self.routes) + " NT: " + str(len(self.routes)) + " Q: " + str(self.quality())
+        return "NT: " + str(len(self.routes)) + " Q: " + str(self.quality())

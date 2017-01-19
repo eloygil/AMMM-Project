@@ -32,17 +32,17 @@ class Problem(object):
             if nPstr in line:
                 # Gets the number of destination points (nP)
                 self.nPoints = int(line.split(nPstr)[-1].split(";")[0])
-                print "nP =", self.nPoints
+                #print "nP =", self.nPoints
             elif workTimeStr in line:
                 # Gets the maximum workTime
                 self.workTime = int(line.split(workTimeStr)[-1].split(";")[0])
-                print "workTime =", self.workTime
+                #print "workTime =", self.workTime
             elif taskStr in line:
                 # Get the task list
                 tVal = line.split(taskStr)[-1].split(" ")
                 for i in range(1,len(tVal)-1):
                     self.task.append(int(tVal[i]))
-                print "task =", self.task
+                #print "task =", self.task
             elif taskWindowStr in line:
                 # Gets the windows to perform tasks in each point, 1st line
                 clean = line.split(taskWindowStr)[-1].split(']')[0].strip()
@@ -71,7 +71,7 @@ class Problem(object):
                         dist_file.append(int(v))
                 self.dist.append(dist_file)
                 distLinesLeft -= 1
-        print "task_window =", self.window
-        print "dist =", self.dist
+        #print "task_window =", self.window
+        #print "dist =", self.dist
         self.bigM = self.workTime * 2
         self.sourcePoint = self.nPoints

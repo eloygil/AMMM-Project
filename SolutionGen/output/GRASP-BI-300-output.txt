@@ -1,0 +1,55 @@
+Using instance instance_5.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 4 Q: 6061
+##############################
+Using instance instance_6.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 2 Q: 3065
+##############################
+Using instance instance_7.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 2 Q: 3175
+##############################
+Using instance instance_8.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4552
+##############################
+Using instance instance_9.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 2 Q: 3192
+##############################
+Using instance instance_10.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4712
+##############################
+Using instance instance_11.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4619
+##############################
+Using instance instance_12.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4679
+##############################
+Using instance instance_13.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 4 Q: 6053
+##############################
+Using instance instance_14.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4656
+##############################
+Using instance instance_15.dat
+Solving using GRASP-BI
+Instance executed for 300 seconds.
+Final solution: NT: 4 Q: 6055
+##############################

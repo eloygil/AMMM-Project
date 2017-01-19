@@ -1,0 +1,17 @@
+../InstanceGen/instance_5.dat GRASP-BI 1
+../InstanceGen/instance_6.dat GRASP-BI 1
+../InstanceGen/instance_7.dat GRASP-BI 1
+../InstanceGen/instance_8.dat GRASP-BI 1
+../InstanceGen/instance_9.dat GRASP-BI 1
+../InstanceGen/instance_10.dat GRASP-BI 1
+../InstanceGen/instance_11.dat GRASP-BI 1
+../InstanceGen/instance_12.dat GRASP-BI 1
+../InstanceGen/instance_13.dat GRASP-BI 1
+../InstanceGen/instance_14.dat GRASP-BI 1
+../InstanceGen/instance_15.dat GRASP-BI 1
+../InstanceGen/instance_16.dat GRASP-BI 1
+../InstanceGen/instance_17.dat GRASP-BI 1
+../InstanceGen/instance_18.dat GRASP-BI 1
+../InstanceGen/instance_19.dat GRASP-BI 1
+../InstanceGen/instance_20.dat GRASP-BI 1
+../InstanceGen/instance_100.dat GRASP-BI 1

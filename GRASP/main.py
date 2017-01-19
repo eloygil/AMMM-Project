@@ -79,7 +79,7 @@ finalSolution = Solution(problem)
 finalSolution.setWorstCase()
 
 
-print "Initial solution:", finalSolution.routes, "with quality:", finalSolution.quality()
+#print "Initial solution:", finalSolution.routes, "with quality:", finalSolution.quality()
 
 while time.time() - startTime < float(sys.argv[3]):
     #print str(round(((time.time() - startTime) * 100) / float(sys.argv[3]), 2)) + '%'
@@ -89,3 +89,4 @@ while time.time() - startTime < float(sys.argv[3]):
         finalSolution = solution
 print "Instance executed for", sys.argv[3], "seconds."
 print "Final solution:", finalSolution
+print "#" * 30

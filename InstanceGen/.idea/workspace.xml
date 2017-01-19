@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c49ac2a9-f263-42c5-973d-503ec9bfb31a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/main.py" afterPath="$PROJECT_DIR$/../GRASP/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/problem.py" afterPath="$PROJECT_DIR$/../GRASP/problem.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/solution.py" afterPath="$PROJECT_DIR$/../GRASP/solution.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generator.py" afterPath="$PROJECT_DIR$/generator.py" />
     </list>
     <ignored path="InstanceGen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,9 +89,11 @@
       <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33306453">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.7983871">
+              <caret line="50" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+              <folding>
+                <element signature="e#94#116#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,7 +145,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/instance_4.dat" />
-        <option value="$PROJECT_DIR$/generator.py" />
         <option value="$PROJECT_DIR$/instance_12.dat" />
         <option value="$PROJECT_DIR$/instance_13.dat" />
         <option value="$PROJECT_DIR$/instance_14.dat" />
@@ -153,6 +157,7 @@
         <option value="$PROJECT_DIR$/instance_6.dat" />
         <option value="$PROJECT_DIR$/instance_10.dat" />
         <option value="$PROJECT_DIR$/instance_11.dat" />
+        <option value="$PROJECT_DIR$/generator.py" />
       </list>
     </option>
   </component>
@@ -379,7 +384,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11737089" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -492,7 +497,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#94#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -515,7 +522,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="104" column="29" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#94#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -656,9 +665,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33306453">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.7983871">
+          <caret line="50" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="e#94#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

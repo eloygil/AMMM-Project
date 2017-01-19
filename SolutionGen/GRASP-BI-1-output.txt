@@ -1,0 +1,332 @@
+Using instance instance_5.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6061
+##############################
+Using instance instance_6.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3065
+##############################
+Using instance instance_7.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3175
+##############################
+Using instance instance_8.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4552
+##############################
+Using instance instance_9.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3192
+##############################
+Using instance instance_10.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4712
+##############################
+Using instance instance_11.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4619
+##############################
+Using instance instance_12.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4679
+##############################
+Using instance instance_13.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6053
+##############################
+Using instance instance_14.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6096
+##############################
+Using instance instance_15.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 5 Q: 7495
+##############################
+Using instance instance_16.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 6 Q: 8866
+##############################
+Using instance instance_17.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6060
+##############################
+Using instance instance_18.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6123
+##############################
+Using instance instance_19.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 6 Q: 8953
+##############################
+Using instance instance_20.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 5 Q: 7490
+##############################
+Using instance instance_100.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 25 Q: 36322
+##############################
+Using instance instance_250.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 61 Q: 88221
+##############################
+Using instance instance_500.dat
+Solving using GRASP-BI
+Executing: ../InstanceGen/instance_5.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_6.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_7.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_8.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_9.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_10.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_11.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_12.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_13.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_14.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_15.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_16.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_17.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_18.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_19.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_20.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_100.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_250.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_500.dat GRASP-BI 1
+
+Using instance instance_5.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6061
+##############################
+Using instance instance_6.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3065
+##############################
+Using instance instance_7.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3175
+##############################
+Using instance instance_8.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4552
+##############################
+Using instance instance_9.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 2 Q: 3192
+##############################
+Using instance instance_10.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4712
+##############################
+Using instance instance_11.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4619
+##############################
+Using instance instance_12.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4679
+##############################
+Using instance instance_13.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6053
+##############################
+Using instance instance_14.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 3 Q: 4656
+##############################
+Using instance instance_15.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6055
+##############################
+Using instance instance_16.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 6 Q: 8865
+##############################
+Using instance instance_17.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 4 Q: 6060
+##############################
+Using instance instance_18.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 5 Q: 7563
+##############################
+Using instance instance_19.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 6 Q: 8947
+##############################
+Using instance instance_20.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 6 Q: 8930
+##############################
+Using instance instance_100.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 26 Q: 37814
+##############################
+Using instance instance_250.dat
+Solving using GRASP-BI
+Instance executed for 1 seconds.
+Final solution: NT: 58 Q: 83917
+##############################
+Using instance instance_500.dat
+Solving using GRASP-BI
+Executing: ../InstanceGen/instance_5.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_6.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_7.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_8.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_9.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_10.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_11.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_12.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_13.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_14.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_15.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_16.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_17.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_18.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_19.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_20.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_100.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_250.dat GRASP-BI 1
+
+Finished. 
+
+Executing: ../InstanceGen/instance_500.dat GRASP-BI 1
+

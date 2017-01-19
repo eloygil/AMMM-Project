@@ -38,6 +38,8 @@ if __name__ == '__main__':
             task.append(int(new_rand_val2) + 10)
         else:
             new_rand_val2 = new_rand_val[:2][1:]
+            if int(new_rand_val2) == 0:
+                new_rand_val2 = random.randint(1, 10)
             task.append(int(new_rand_val2))
 
         # Task window generation
@@ -62,6 +64,8 @@ if __name__ == '__main__':
                 new_dist_val = str(random.getrandbits(100))[:4][1:]
                 while float(new_dist_val) > workTime/6:
                     new_dist_val = str(random.getrandbits(100))[:4][1:]
+                if int(new_dist_val) == 0:
+                    new_dist_val = random.randint(50, workTime/2)
                 dist[x].append(int(new_dist_val))
 
     print "Generation completed."
