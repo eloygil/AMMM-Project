@@ -20,6 +20,7 @@ class Problem(object):
         self.dist = []
         self.window = []
         self.task = []
+        self.pInheritanceElite = 0.5
         file = open(path, "r")
         nPstr = "nP = "
         workTimeStr = "workTime = "
