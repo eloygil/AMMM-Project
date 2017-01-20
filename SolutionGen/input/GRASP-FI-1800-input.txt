@@ -1,0 +1,5 @@
+../InstanceGen/instance_20.dat GRASP-FI 1800
+../InstanceGen/instance_50.dat GRASP-FI 1800
+../InstanceGen/instance_100.dat GRASP-FI 1800
+../InstanceGen/instance_250.dat GRASP-FI 1800
+../InstanceGen/instance_500.dat GRASP-FI 1800

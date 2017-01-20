@@ -53,3 +53,109 @@ Solving using GRASP-FI
 Instance executed for 300 seconds.
 Final solution: NT: 4 Q: 6055
 ##############################
+Using instance instance_16.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 6 Q: 8865
+##############################
+Using instance instance_17.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 3 Q: 4644
+##############################
+Using instance instance_18.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 4 Q: 6123
+##############################
+Using instance instance_19.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 5 Q: 7507
+##############################
+Using instance instance_20.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 5 Q: 7490
+##############################
+Using instance instance_50.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 12 Q: 17617
+##############################
+Using instance instance_100.dat
+Solving using GRASP-FI
+Instance executed for 300 seconds.
+Final solution: NT: 24 Q: 34907
+##############################
+Executing: ../InstanceGen/instance_5.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_6.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_7.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_8.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_9.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_10.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_11.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_12.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_13.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_14.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_15.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_16.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_17.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_18.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_19.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_20.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_50.dat GRASP-FI 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_100.dat GRASP-FI 300
+Finished. 
+

@@ -1,0 +1,6 @@
+../InstanceGen/instance_17.dat GRASP-BI 900
+../InstanceGen/instance_18.dat GRASP-BI 900
+../InstanceGen/instance_19.dat GRASP-BI 900
+../InstanceGen/instance_20.dat GRASP-BI 900
+../InstanceGen/instance_50.dat GRASP-BI 900
+../InstanceGen/instance_100.dat GRASP-BI 900

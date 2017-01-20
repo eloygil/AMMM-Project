@@ -15,31 +15,30 @@ range P_s = 1..nP;
 range P = 1..S;
 range window = 1..2;
 
-float dist[p in P][q in P] = ...;
-float task[p in P] = ...;
-float task_window[p in P_s][w in window] = ...;
+int dist[p in P][q in P] = ...;
+int task[p in P] = ...;
+int task_window[p in P_s][w in window] = ...;
  
 dvar int+ arrive_pt[p in P_s][t in T];
 dvar int+ end_time[t in T];
 dvar boolean pt[p in P][t in T];
 dvar boolean from_p_to_q[t in T][p in P][q in P];
 
-// La fila S de pt te dice los camiones que salen y los que no, lo multiplicamos por bigM para darle mas importancia,
-// si dos soluciones empatan ("sum(t in T) pt[S][t] * bigM" tiene el mismo valor en ambas) se desempata sumándole 
-// el tiempo maximo de llegada
+// The S row of pt tells us the trucks which are in use. Multiplying it by bigM gives importance and if two solutions draw
+// ("sum(t in T) pt[S][t] * bigM" has the same value in both of them) we break the tie adding the maximum arrival time.
 minimize (sum(t in T) pt[S][t] * bigM) + (max(t in T) end_time[t]);
 
 subject to {
 	
-	// Constraint 1 (no time travelling allowed between two points)
-	// The time difference between the arriving time at the 2nd point and the arriving time at the 1st is bigger than the distance 
+	// Constraint set 1 (no time travelling allowed between two points)
+	// The time difference between the arriving time at the 2nd point and the arriving time at the 1st is equal or bigger than the distance 
 	// between the 1st and the 2nd point plus the time spent in the task, if such a track actually exists. Otherwise this comparison is
 	// avoided using the bigM value that is a way bigger negative value.
 	forall (p in P_s, q in P_s)
 		forall (t in T)
 			arrive_pt[q][t] - arrive_pt[p][t] >= (from_p_to_q[t][p][q] * (dist[p][q] + task[p])) - (bigM * (1-from_p_to_q[t][p][q]));
 			
-	// Constraint 2 (same as Constraint 1 but for the special cases of Source/Destination point)
+	// Constraint set 2 (same as Constraint 1 but for the special cases of Source/Destination point)
 	forall (p in P_s, t in T) {
 		// Departure
 		arrive_pt[p][t] >= from_p_to_q[t,S,p] * dist[S][p];
@@ -47,21 +46,21 @@ subject to {
 		end_time[t] >= arrive_pt[p][t] + (from_p_to_q[t][p][S] * (dist[p][S] + task[p]));
 	}
 	
-	// Constaint 3 (task started during the specified time window)
+	// Constaint set 3 (task started during the specified time window)
 	forall (p in P_s, t in T) {		
 		arrive_pt[p][t] >= task_window[p][1] * pt[p][t];
 		arrive_pt[p][t] <= task_window[p][2] * pt[p][t];	
     }	  
     
-	// Constraint 4 (worktime behind maximum)
+	// Constraint set 4 (worktime behind maximum)
 	forall (t in T)
 	  	end_time[t] <= workTime;	
 		
-	// Constaint 5 (each point is visited exactly once, except the Source/Destination point) 
+	// Constaint set 5 (each point is visited exactly once, except the Source/Destination point) 
 	forall (p in P_s)
 		sum(t in T) pt[p,t] == 1;
 		
-	// Constraint 6 (defines the order of the visits)
+	// Constraint set 6 (defines the order of the visits)
 	forall (t in T, p in P) {
 		// If truck t visits any point it also visits the Source/Destination point
 		pt[S][t] >= pt[p][t];
