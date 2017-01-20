@@ -20,6 +20,14 @@ class Problem(object):
         self.dist = []
         self.window = []
         self.task = []
+
+        #BRKGA 
+        self.pInheritanceElite = 0.7
+        self.numIndividuals = 200
+        self.pElites = 0.20
+        self.pMutants = 0.15
+
+
         file = open(path, "r")
         nPstr = "nP = "
         workTimeStr = "workTime = "
