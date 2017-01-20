@@ -62,12 +62,12 @@ class Solution(object):
                 self.routes[i].append(unassignedPoint)
                 if self.isFeasible():
                     rTime = self._routeTime(self.routes[i], False)
-                    candidates.append((unassignedPoint,i,rTime))
+                    candidates.append((unassignedPoint, i, rTime))
                 self.routes[i].remove(unassignedPoint)
             self.routes.append([unassignedPoint])
             if self.isFeasible():
                 rTime = self._routeTime(self.routes[-1], False)
-                candidates.append((unassignedPoint,-1,wTime + rTime))
+                candidates.append((unassignedPoint, -1, wTime + rTime))
             self.routes.remove([unassignedPoint])
         return candidates
 

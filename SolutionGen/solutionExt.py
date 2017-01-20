@@ -17,7 +17,7 @@ if __name__ == '__main__':
 		for line in in_file:
 			if search_str in line:
 				print int(line.split(search_str)[1].split(search_str2)[0])
-				val.append(int(line.split(search_str)[1].split(search_str2)[1]))
+				val.append(int(line.split(search_str)[1].split(search_str2)[1].split(' ')[0]))
 		print "Q: "
 		for v in val:
 			print v

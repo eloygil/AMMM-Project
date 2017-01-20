@@ -22,8 +22,11 @@ def fileCheck(inst_path):
         exit()
 
 def solverCheck(solver):
-    if (solver == "GRASP-BI" or solver == "GRASP-FI" or solver == "BRKGA"):
+    if solver == "GRASP-BI" or solver == "GRASP-FI":
         print 'Solving using', solver
+    elif solver == "BRKGA":
+        os.system('python ../GRASP/brkga.py ' + sys.argv[1] + ' ' + sys.argv[3])
+        exit()
     else:
         print 'Wrong solver given:', solver, 'Options: GRASP-BI, GRASP-FI and BRKGA. Aborting...'
         exit()

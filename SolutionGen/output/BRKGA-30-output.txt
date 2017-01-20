@@ -1,0 +1,125 @@
+['../GRASP/brkga.py', '../InstanceGen/instance_5.dat', '30']
+NT: 4 Q: 6061 1492
+Using instance instance_5.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_6.dat', '30']
+NT: 2 Q: 3065 1048
+Using instance instance_6.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_7.dat', '30']
+NT: 2 Q: 3175 729
+Using instance instance_7.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_8.dat', '30']
+NT: 3 Q: 4552 563
+Using instance instance_8.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_9.dat', '30']
+NT: 2 Q: 3192 417
+Using instance instance_9.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_10.dat', '30']
+NT: 3 Q: 4712 329
+Using instance instance_10.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_11.dat', '30']
+NT: 3 Q: 4619 276
+Using instance instance_11.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_12.dat', '30']
+NT: 3 Q: 4679 212
+Using instance instance_12.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_13.dat', '30']
+NT: 4 Q: 6053 178
+Using instance instance_13.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_14.dat', '30']
+NT: 3 Q: 4656 152
+Using instance instance_14.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_15.dat', '30']
+NT: 4 Q: 6055 121
+Using instance instance_15.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_16.dat', '30']
+NT: 6 Q: 8865 100
+Using instance instance_16.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_17.dat', '30']
+NT: 3 Q: 4620 89
+Using instance instance_17.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_18.dat', '30']
+NT: 4 Q: 6123 76
+Using instance instance_18.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_19.dat', '30']
+NT: 5 Q: 7507 62
+Using instance instance_19.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_20.dat', '30']
+NT: 4 Q: 6050 56
+Using instance instance_20.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_50.dat', '30']
+NT: 8 Q: 11890 3
+Using instance instance_50.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_100.dat', '30']
+NT: 14 Q: 20522 1
+Using instance instance_100.dat
+Executing: ../InstanceGen/instance_5.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_6.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_7.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_8.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_9.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_10.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_11.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_12.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_13.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_14.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_15.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_16.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_17.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_18.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_19.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_20.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_50.dat BRKGA 30
+
+Finished. 
+
+Executing: ../InstanceGen/instance_100.dat BRKGA 30
+Finished. 
+

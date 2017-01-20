@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c49ac2a9-f263-42c5-973d-503ec9bfb31a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-BI-3-input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-BI-30-input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-BI-300-input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-FI-3-input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-FI-30-input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../SolutionGen/GRASP-FI-300-input.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Project/graphs.xlsx" afterPath="$PROJECT_DIR$/../Project/graphs.xlsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.log" afterPath="$PROJECT_DIR$/../.metadata/.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.oplrun.log" afterPath="$PROJECT_DIR$/../.metadata/.oplrun.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Project/report.docx" afterPath="$PROJECT_DIR$/../Project/report.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GRASP/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/brkga.py" afterPath="$PROJECT_DIR$/../GRASP/brkga.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/individual.py" afterPath="$PROJECT_DIR$/../GRASP/individual.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/main.py" afterPath="$PROJECT_DIR$/../GRASP/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../GRASP/solution.py" afterPath="$PROJECT_DIR$/../GRASP/solution.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Project/Project.mod" afterPath="$PROJECT_DIR$/../Project/Project.mod" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SolutionGen/output/GRASP-BI-300-output.txt" afterPath="$PROJECT_DIR$/../SolutionGen/output/GRASP-BI-300-output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SolutionGen/output/GRASP-FI-300-output.txt" afterPath="$PROJECT_DIR$/../SolutionGen/output/GRASP-FI-300-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../SolutionGen/solutionExt.py" afterPath="$PROJECT_DIR$/../SolutionGen/solutionExt.py" />
     </list>
     <ignored path="InstanceGen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,8 +94,8 @@
       <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7983871">
-              <caret line="50" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.716129">
+              <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
               <folding>
                 <element signature="e#94#116#0" expanded="true" />
               </folding>
@@ -394,7 +388,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1407" extended-state="1" />
+    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11737089" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -676,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7983871">
-          <caret line="50" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.716129">
+          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
           <folding>
             <element signature="e#94#116#0" expanded="true" />
           </folding>

@@ -1,0 +1,125 @@
+['../GRASP/brkga.py', '../InstanceGen/instance_5.dat', '300']
+NT: 4 Q: 6061 15560
+Using instance instance_5.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_6.dat', '300']
+NT: 2 Q: 3065 10635
+Using instance instance_6.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_7.dat', '300']
+NT: 2 Q: 3175 7704
+Using instance instance_7.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_8.dat', '300']
+NT: 3 Q: 4552 6053
+Using instance instance_8.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_9.dat', '300']
+NT: 2 Q: 3192 4514
+Using instance instance_9.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_10.dat', '300']
+NT: 3 Q: 4712 3483
+Using instance instance_10.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_11.dat', '300']
+NT: 3 Q: 4619 2804
+Using instance instance_11.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_12.dat', '300']
+NT: 3 Q: 4679 2304
+Using instance instance_12.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_13.dat', '300']
+NT: 4 Q: 6053 1753
+Using instance instance_13.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_14.dat', '300']
+NT: 3 Q: 4656 1483
+Using instance instance_14.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_15.dat', '300']
+NT: 4 Q: 6055 1171
+Using instance instance_15.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_16.dat', '300']
+NT: 6 Q: 8865 920
+Using instance instance_16.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_17.dat', '300']
+NT: 3 Q: 4629 842
+Using instance instance_17.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_18.dat', '300']
+NT: 4 Q: 6123 766
+Using instance instance_18.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_19.dat', '300']
+NT: 5 Q: 7507 654
+Using instance instance_19.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_20.dat', '300']
+NT: 4 Q: 6050 584
+Using instance instance_20.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_50.dat', '300']
+NT: 7 Q: 10482 34
+Using instance instance_50.dat
+['../GRASP/brkga.py', '../InstanceGen/instance_100.dat', '300']
+NT: 14 Q: 20522 3
+Using instance instance_100.dat
+Executing: ../InstanceGen/instance_5.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_6.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_7.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_8.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_9.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_10.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_11.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_12.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_13.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_14.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_15.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_16.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_17.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_18.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_19.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_20.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_50.dat BRKGA 300
+
+Finished. 
+
+Executing: ../InstanceGen/instance_100.dat BRKGA 300
+Finished. 
+
