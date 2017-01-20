@@ -15,8 +15,8 @@ class Individual(object):
         ind.chromosomes = [[round(random.random(),2) for e in range(0,problem.nPoints)] for e in range(0,problem.nPoints)]
         return ind
 
-    def createCrossover(vip,pleb):
-        problem = ind1.problem
+    def createCrossOver(vip,pleb):
+        problem = vip.problem
         numGenes = problem.nPoints
         numChromosomes = problem.nPoints
 
@@ -59,6 +59,9 @@ class Individual(object):
         
         CL = self.solution.candidateList()
         while len(CL) > 0:
+            nextTurck = len(self.solution.routes)
+            for c in CL: 
+                c = (c[0], c[1], c[2] if c[2] >= 0 else nex)
             best = min(CL, key=lambda c: c[2] * self.chromosomes[c[0]][c[1]])
             self.solution.assign(best)
             CL = self.solution.candidateList()
@@ -69,21 +72,5 @@ class Individual(object):
         if self.solution == None: self.decode()
         return self.fitness
 
-
-from problem import Problem
-
-problem = Problem()
-problem.load(sys.argv[1])
-
-ind1 = Individual.createMutant(problem)
-#ind1.chromosomes = [[1.0] * problem.nPoints] * problem.nPoints
-print ind1.chromosomes
-print
-
-ind2 = Individual.createMutant(problem)
-#ind2.chromosomes = [[0.0] * problem.nPoints] * problem.nPoints
-print ind2.chromosomes
-print
-
-cross = Individual.createCrossover(ind1,ind2)
-print cross.chromosomes
+    def __str__(self):
+        return str(self.solution)
